@@ -1,0 +1,52 @@
+ 진도 수업
+오전 3시간 복습 1시간
+ 오후3시간 복습 1시간 
+ 프로젝트 실제 진행
+ -스팟성 강의 /  실제코딩
+
+ 데이터 분석 인공지능 관련 언어
+ -R,      Python (파이썬)
+ -1주일 , 2달~ 
+웹개발 관련 언어 
+-html ,css javaScript , java
+
+ 데이터베이스 언어 
+오라클 (SQL)
+
+
+16일,17일 
+블로그 작성 (많이해보기)
+
+갓허브
+
+IT 취업
+
+-SI: 하청 업체 (공공기관)
+--> 세금
+--> 성과 : 빠르게 만듬
+
+-자사 서비스 업체:
+-->네이버 카카오 요기요 쿠팡
+
+--로컬 pc <-->githhub
+
+(git bash here) 들어갔을때
+cd human0616
+
+cd: 체인지 디렉트 약자
+
+human@DESKTOP-1TB0OJT MINGW64 ~/Desktop ← 데스크탑이 없어질지
+
+pwd 눌르고 확인해보기
+
+cmd: 윈도우 터미널 명령어
+
+git-bash:리눅스 터미널 명령어
+
+구글에 검색 
+1일1커밋 운동(꾸준히 하기)
+
+(파일 업데이트)
+git add .
+git commit -m "your_message"
+git push -u origin main
